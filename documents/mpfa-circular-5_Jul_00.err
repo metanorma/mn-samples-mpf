@@ -1,0 +1,31 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/published/documents/mpfa-circular-5_Jul_00.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000045): Table should have title
+	<table id="_2def0b6f-60ec-4702-b657-4a7ce6484ede">
+	<tbody>
+	<tr>
+	<td valign="top" align="left">
+	<p id="_524559ac-1ec9-4596-b7b2-db96211d083e">Remuneration basis</p>
+(XML Line 000126): Hanging paragraph in clause
+	<clause id="_other_issues_relating_to_prorating" obligation="normative"><title>Other issues relating to prorating</title><p id="_68cc1827-cf56-4436-92b1-2cf0045cd0c2">The Authority would also like to take this opportunity to clarify certain related issues in the prorating arrangement.</p>
+	<clause id="_commencement_or_termination_of_employment_during_a_contribution_period" obligation="normative">
+	<title>Commencement or Termination of Employment during a Contribution Period</title>
+	<p id="_db7b1011-a8f9-4e32-a515-f1198497db04">The fact that an employee commences or ceases employment within a contribution period will not affect the levels of relevant income applicable to that period. For example, the minimum and maximum levels of relevant income in respect of a relevant employee, who is remunerated on a monthly basis and commences employment on 20 December 2000, would be HK$4,000 and HK$20,000 respectively for determination of mandatory contributions required for the first contribution period from 20 December 2000 to 31 December 2000. Similar treatment should be applied to a relevant employee who ceases employment during a contribution period.</p>
+	</clause>
+
+
+== Document Attributes
+
+(): circular is not a recognised document type
+(): Repealed (2003-02-01) is not a recognised status
+
+
+== Metanorma XML Syntax
+
+(XML Line 000037:28): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000038:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000040:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000139:17): element "mpfd-standard" incomplete; missing required element "bibliography"

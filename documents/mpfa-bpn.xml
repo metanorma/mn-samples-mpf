@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<mpfd-standard xmlns="https://www.metanorma.org/ns/mpfd" type="semantic" version="0.5.14">
+<bibdata type="standard">
+<title language="en" format="text/plain">Best Practice Note for MPF Trustees</title>
+
+
+<contributor>
+<role type="author"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<edition>1</edition>
+<version>
+<revision-date>2009-09-01</revision-date>
+
+</version>
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>published</stage>
+</status>
+<copyright>
+<from>2009</from>
+<owner>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>supervision-of-mpf-intermediaries</doctype>
+</ext>
+</bibdata>
+<preface><introduction id="_introduction" obligation="informative">
+<title>Introduction</title>
+<p id="_c0cbebc5-493b-47fa-a6cf-e6e86ca21058">The Code of Conduct for MPF Intermediaries states that approved MPF trustees have a duty to use their best endeavours to supervise persons selling / advising on MPF schemes. The Authority regards this Note as a tool to assist trustees to supervise and monitor their MPF promoters and in turn, their intermediaries (both Corporate and Individual) in the marketing and selling of MPF schemes and products.</p>
+</introduction></preface><sections>
+<clause id="clause1" obligation="normative"><title>Relationship between MPF trustees and promoters</title><clause id="clause1-1" obligation="normative">
+
+<p id="_cd19a999-b619-4336-92d2-fecf8cb104bc">The Authority imposes a number of conditions when approving applications to become an approved MPF trustee. One of these requires trustees to take all reasonable steps to ensure that only registered MPF intermediaries induce or seek to induce another to become a participating employer or member of the Scheme. In addition, the Code of Conduct states that trustees have a duty to use their best endeavours to supervise and exercise proper control over persons selling / advising on MPF schemes. It is therefore expected that trustees would endeavour to ensure that the standards of conduct set out in the Code, are met by their intermediaries. Trustees should have the necessary tools at their disposal to facilitate this and where problems arise, the ability to take (either directly or indirectly) the appropriate remedial action. The Authority is aware that many trustees already have written undertakings from their promoters concerning the latters&#8217; intermediaries adherence to the Code of Conduct. The Authority commends this and would encourage all trustees to adopt the practice.</p>
+</clause>
+<clause id="clause1-2" obligation="normative"><p id="_f2a86003-975b-4726-bd9c-321b78be0b68">The Authority sees merit in the undertaking, which may take the form of a separate document (e.g. a service level agreement) or an annex to any existing documentation, containing the following:-</p>
+<ol id="_5ad48d80-58e0-451d-aa3b-482adcbe65fc" type="alphabet">
+<li>
+<p id="_3f73f286-6bc4-4426-b2d8-1ed0d7570a61">the means by which the promoter will ensure, as far as reasonably practicable,
+that the MPF intermediaries selling / advising on the relevant MPF schemes comply with the Code of Conduct and any other regulatory documents issued by the Authority;</p>
+</li>
+<li>
+<p id="_3d7b8aeb-7474-457e-9681-d35ec65cf0dd">the procedures to be adopted if a breach of the Code of Conduct comes to the promoter&#8217;s attention;</p>
+</li>
+<li>
+<p id="_d2f3e0f2-0481-4962-912e-298724dff6d5">a summary of the promoter&#8217;s complaint handling procedure and the mechanism for advising the relevant trustee of complaints received;</p>
+</li>
+<li>
+<p id="_1a998613-7eb5-477e-aaa8-f61fd664f2b0">reference to an ability for the trustee to conduct on-site inspections at the promoter&#8217;s place of business, if the trustee deems this to be necessary;</p>
+</li>
+<li>
+<p id="_21ee248e-b0d4-418b-a41a-e0c2c01335ed">a commitment by the promoter to provide the trustee with annual written confirmation that the promoter and intermediaries appointed or engaged for the purpose of selling or advising on MPF schemes and products have complied with the Code of Conduct and any other regulatory documents issued by the Authority; and</p>
+</li>
+<li>
+<p id="_2c6a4af5-d39d-4e13-91f3-d97de21d9ec6">any other relevant material to ensure compliance with the Code.</p>
+</li>
+</ol>
+<p id="_351142e0-5b1f-4dd5-9f99-896dd15ed678">If the existing relevant documentation does not address these issues or trustees are not sufficiently satisfied that they are adequately covered, they should seek to modify the undertaking, where feasible.</p></clause>
+<clause id="clause1-3" obligation="normative">
+
+<p id="_98556ba7-0805-4ff8-a59f-abb8043cd648">To assist the Authority to promote best practices in this area, trustees are invited to copy these documents to the Authority within 3 months of the date of issue of this Note and whenever, in their opinion, substantial amendments are made. Commercially sensitive information may be excluded when forwarding the documents to the Authority.</p>
+</clause></clause>
+<clause id="clause2" obligation="normative">
+<title>Relationship between promoters and their corporate intermediaries</title>
+<clause id="clause2-1" obligation="normative">
+
+<p id="_24972386-6531-4137-b2b6-e99245dba130">Whilst the majority of promoters engage corporate intermediaries to sell MPF
+products, trustees generally have little direct contact with this Group. Therefore, as a best practice, trustees are invited to consider encouraging their promoters to obtain documentation from the promoters&#8217; corporate intermediaries covering some or all of the areas suggested in <xref target="clause1"/>. If, applicable, it would be helpful to the Authority, if trustees could indicate the existence of this documentation when submitting copies of the documents referred to in <xref target="clause1-3"/>. In addition, trustees are encouraged to satisfy themselves that, as far as practicable, promoters have sufficient due diligence processes in place to ensure that individual intermediaries working for their corporate intermediaries, are adequately supervised and monitored in terms of compliance with the Code of Conduct.</p>
+</clause>
+</clause>
+<clause id="clause3" obligation="normative">
+<title>On-going verification of the registration requirements of intermediaries</title>
+<clause id="clause3-1" obligation="normative">
+
+<p id="_f4d7474c-4ccf-4afc-84e4-1acbccfd908d">Under the Code of Conduct, all MPF intermediaries must be fit and proper persons to remain registered with the Authority. Some promoters and corporate intermediaries rely predominately on self-declaration by the individuals concerned. Others have instituted various checking mechanisms which go beyond sole reliance on self-declaration, including, obtaining written confirmation from the relevant employer. This particular practice is encouraged. As a best practice, trustees are encouraged to satisfy themselves with the verification mechanism (i.e. the processes) adopted by their promoters / corporate intermediaries. In addition, either they, or the promoters / corporate intermediaries are encouraged to conduct random spot-checks (as far as this is practicable) to verify that these requirements have been met in respect of those individual intermediaries with whom they have a working relationship.</p>
+</clause>
+</clause>
+<clause id="clause4" obligation="normative">
+<title>On-site inspection of promoters by trustees</title>
+<clause id="clause4-1" obligation="normative">
+
+<p id="_f0092a3b-d0d6-4527-98f7-c60d3153f1f3">The Authority notes that some trustees conduct regular on-site inspections of their promoters to ensure that adequate processes are in place which facilitate compliance with the Code of Conduct and other regulatory documentation issued by the Authority. This is encouraged.</p>
+</clause>
+</clause>
+<clause id="clause5" obligation="normative"><title>Complaint reporting mechanism between the MPFA, trustees and promoters</title><clause id="clause5-1" obligation="normative">
+
+<p id="_3bfb72ca-f60a-4640-9f41-97304a3bd0ce">As the lead MPF regulator, the Authority should be kept informed of all significant complaints. Chapter 4 paragraph 10.2(e) of the Code of Conduct already requires MPF corporate intermediaries to report certain complaints to the Authority, including, any misappropriation of client funds or forgery of client documents.</p>
+</clause>
+<clause id="clause5-2" obligation="normative">
+
+<p id="_e14b70bd-8570-4cb1-8959-b9d10a8381a7">The Authority is aware that most, if not all trustees and promoters, already have detailed complaint handling procedures. If these do not exist, their production is very much encouraged.</p>
+</clause>
+<clause id="clause5-3" obligation="normative">
+
+<p id="_3b0ba654-4b8a-41e9-995b-bdece65ccea8">As suggested in <xref target="clause1-2"/>, trustees are encouraged to satisfy themselves that an effective reporting mechanism is in place with their promoters which ensures that all complaints lodged against intermediaries, particularly individual intermediaries with regard to their fitness and properness to be registered, cases which relate to systemic operational failures and all complaints which relate to a member sustaining or potentially sustaining a financial loss, are reported to them, as trustees. For the avoidance of doubt, this also extends to the areas referred to in the Code of Conduct and highlighted in <xref target="clause5-1"/>. Some trustees already report the details of such complaints to the Authority on a regular basis and this practice is encouraged.</p>
+</clause>
+<clause id="clause5-4" obligation="normative">
+
+<p id="_fe27a9b3-5ccd-4560-9107-919ddf6005f5">A number of trustees hold regular meetings with their promoters where necessary, (or use other means) to review progress on the handling of complaints particularly, those which remain outstanding or unresolved after a period of time. This practice is also encouraged.</p>
+</clause></clause>
+<clause id="clause6" obligation="normative">
+<title>Vetting of Marketing Materials by trustees</title>
+<clause id="clause6-1" obligation="normative">
+
+<p id="_4c819f95-7590-450d-9112-2557e4c9b838">According to the Code of Conduct, promoters should ensure that the offering documents have been authorized by the Securities and Futures Commission (SFC) and approved by the Authority. In addition, promoters should ensure that all marketing materials have been authorized by the SFC. Some trustees also examine and confirm for example, that there is no misrepresentation, improper disclosure or misstatement of facts in the material before it is sent to the appropriate Regulator(s). This practice is encouraged.</p>
+</clause>
+</clause></sections>
+</mpfd-standard>
